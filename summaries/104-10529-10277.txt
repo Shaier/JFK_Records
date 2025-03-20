@@ -1,0 +1,1 @@
+This document is a message between KOME, MEXI, and SALV, regarding DEVISTA-1 contacts. It instructs that if PCI doesn't provide the contacts in SALV, the station should pass only the first four names of the referenced document to DEVISTA-1. The message includes a comment suggesting that the contacts are possible communists.

@@ -1,0 +1,85 @@
+14-00000
+TO
+RI/ANALYSIS SECTION
+FROM RI
+RI/AN/FAHY
+CIA INTERNAL USE ONLY
+SECRET
+When Filled in)
+PERSONALITY (201) FILE REQUEST
+DATE
+17 Oct 56
+TYPE ACTION
+AM END
+OPEN
+CLOSE
+ВООМ NO.
+1509 K
+8225
+INSTRUCTIONS: Fore must be typed or printed in block letters.
+SECTION 1: List 201 number, name and identifying data in the spaces provided. All knom aliases and varianta
+(including maiden naze, if applicable) must be listed. If the identifying date varies with the alias used, a зера.
+rate form must be ued. Write UNKNOWN for iters you are unable to complete.
+SECTION 11: List cryptonym or pseudonym, if assigned. If true name is sensitive, obtain 201 number from 201 Con.
+trol Desk and complete Section I and Section 111. On a separate form, enter the 201 number and complete Section 11
+and Section 111. Subait each form separately.
+SECTION 111: To be completed in all cases.
+SENSITIVE
+AME
+(Last)
+NON SENSITIVE
+LEONOV
+TYPE NAME 2.
+(Last)
+SECTION I
+201-132139
+Nikolay
+(Viddles
+1. SOURCE DOCUMENT
+ΗΜΜΑ 5438
+Sergeyevich
+NAME VARIANT
+(Middle)
+(First)
+(First)
+RECORD COPY
+PHOTO
+BIRTH DATE
+YES
+0
+OCCUPATION/POSITION
+COUNTRY OF BIRTH 6. CITY ON TOWN OF BIRTH
+22-81-28 USSR
+(Title)
+(Title)
+OTHER IDENTIFICATION
+7.
+1.
+2-
+3
+OCC/POS. CODE
+SECRETARY TO AMBASSADOR - Soviet Embassy-Mexico
+CRYPTONYM
+Soviet Embassy-Mex
+SECTION 11
+PSEUDONYM
+COUNTRY OF RESIDENCE
+SECTION 111
+10 ACTION DESK
+11-
+2ND COUNTRY INTEREST 12-
+3PD COUNTRY INTEREST
+124.
+"MexpKWH/3/MP
+COMMENTS:
+1 JUL 56
+PERMANENT CHARGE
+RESTRICTED FILE
+YES
+EDY TRON S
+NCHED
+SIGNATURE
+SECRET
+CIA INTERNAL USE ONLY
+201-132139
+(38)

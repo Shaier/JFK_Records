@@ -1,0 +1,1 @@
+This document appears to be a hospital bill. It includes patient information, dates of service, descriptions of services rendered (such as "Liver Scan"), charges, payments, and balance due. It also provides the names of radiologists, information about the hospital's business office hours, and a disclaimer regarding billing accuracy.

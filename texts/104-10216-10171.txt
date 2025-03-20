@@ -1,0 +1,98 @@
+14-00000
+104-10216-10171
+3
+2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992
+10 June 1964
+HEMORANDUM FOR THE RECORD
+EUEJECT : Tosts of Modified Sights for 7.62 Polgium (FAL) Riflo
+REFERENCE: Memo for Red. dated 23 Lay 64, Eubject FAL Silencers/
+Sights, from C/ME/SA/צק/מכ
+1. On 2 June 1964, Mr. Donald R. Dunn, TSD/EB and the
+undersigned went to Isolation to test a modified sight and a
+telescopic sight developed for the 7.62 Belgium (FAL) Rifle in
+answer to reforence a). The tests were perforaod with the assistance
+of Er. James Earb and Mr. Glen Winstead, Isolation.
+2. The first tests wore conducted with a Williams Paep sight
+nodified to fit an aluminum block which was mounted in place of the
+standard FAL rear sight. The Williams sight has a larger diameter
+poop than the FAL sight and has a wider rango of elovation settings
+as well as mora positive control over both olevation and windage.
+The main purpose of the test was to establish a point of roferonce
+on the aluminum block to watch the graduations on the Williams
+sight and allow the sight to be sot visually for the desired range
+onco the weapon was zeroad,
+3. Firing commenced from 100 yards at a silhouette target
+using the hood of a jeep as a rost. Eoth underloaded and full load
+rounds were used. Light rain which gradually increased in intensity
+during the day served to complicate the procedure. The test
+results at ranges from 25 yds. to 130 yds, using the Williams
+sight are summarized in Attachment I. Exceedingly erratic results
+vere obtained throughout the tests and one attempt to duplicate
+the 100 yd. zoro resulted in a different setting later in the day.
+4. 1. 2X scope of Japanese manufacture equipped with aluminum
+mounting rings front and reer to fit the reer gas port and roar
+sight mount respectively then tested. The scope was attached to
+the rifle with difficulty and attempts to zero it wore frustrated
+by the inability to dotermine where the rifle was shooting. The
+counting moved while attempti: to adjust the olovation knob and it
+vas determined that the mount could not be attached firmly enough
+to insure in retaining a proper zero, The test with the scope
+vas aborted.
+!
+:
+ash - 1 File
+
+14-00000
+ES
+5. It is recomended that the scope and count bo discarded
+as unfeasible. The Williams sight is acceptablo although the
+number of clicks por rovolution of the knob should be reduced.
+Further testing of the underloaded azzurition should be con-
+ducted to determine the reasons for the erratic porformance.
+cc:
+:
+C/TSD
+C/WH/SA/MCR/FIN (Cal Hicks)
+Attachment: As Stated
+DDP/TSD/EB/DJH/EC
+C/TSD/SDB
+SEORET
+DANIEL J. HOGAN
+
+14-00000
+ATTACHMENT I
+2 June 1964
+Williams Paep Sight
+At 25 yds., reduced loads
+Raise sight 60 clicks from bottom
+Match ref. line to 4th line from top
+At 50 yds., reduced loads
+Raise sight 80 clicks from bottom
+Watch rof. line to 5th line from top
+At 73yds., reduced loads
+Raise sight 80 to 110 clicks from bottom
+Ammunition performance very erratic, wide variance on target
+At 100 yds., reduced loads
+Raise sight 120 to 160 clicks
+Ist trial, 160 clicks, little variance
+Match ref. line to 9th line from top
+2nd trial 3 hrs. later, 120 clicks
+Match ref. line to 7th line from top
+At 150 yds., reduced loads
+Raise sight 230 clicks (1 trial)
+Katch rof. line to 12.5 line from top
+Could not mount telescopic sight properly. Began process of
+shooting in scope, found it moved.
+At. 100 yds., full loads
+Raise sight 4 clicks from bottom
+At 150 yds., full loads
+Raise sight 8 clicks from bottom.
+Intermittant vain throughout tests.
+2. Cases with reduced loads vero noted to be blackened at nect
+after firing. Suspected to be low pressures not causing
+sufficient case expansion to obtain proper scal. This can
+contribute to erratic performance. Recommend gas port be turned
+to off position to prevent action from opening and allowing
+gas leak. Also investigate soft annealing case necks.
+SECRET
+:
