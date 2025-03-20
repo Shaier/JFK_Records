@@ -1,0 +1,5 @@
+beautifulsoup4=4.13.3=pypi_0
+google-auth=2.38.0=pypi_0
+google-genai=1.7.0=pypi_0
+requests=2.32.3=pypi_0
+urllib3=2.3.0=pypi_0
